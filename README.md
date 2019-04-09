@@ -28,3 +28,7 @@ PS3 Hacks, Info & Tools
   
   > http://ps3xploit.com/hfw/release/ps3_tools-v3.0-HAN484_HFW_release_PS3XPloit.zip
   
+* PS3Xploit.com website (hosting of exploits)
+
+
+  
