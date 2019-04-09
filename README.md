@@ -8,6 +8,7 @@ PS3 Hacks, Info & Tools
 
 * PS3 HOMEBREW RESOURCES
   > https://store.brewology.com/homebrew.php?lang=&orderby=Release%20Date
+  
   > https://ps3.brewology.com/
 
 * PS3 REDDIT RESOURCES
