@@ -3,7 +3,7 @@
 PS3 Hacks, Info & Tools
 -------------------------------------------------------------
 
-* REBUG FIRMWARE
+* PS3 REBUG CUSTOM FIRMWARE (CFW)
   > https://rebug.me/
 
 * PS3 HOMEBREW RESOURCES
