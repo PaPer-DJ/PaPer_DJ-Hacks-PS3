@@ -26,4 +26,5 @@ PS3 Hacks, Info & Tools
 * PS3 HACK 4.84_HFW TO 4.84_CFW
   > https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-84-2-ps3xploit-han-flash-tools-restored-for-4-84-ofw-users.23094/
   
+  > http://ps3xploit.com/hfw/release/ps3_tools-v3.0-HAN484_HFW_release_PS3XPloit.zip
   
