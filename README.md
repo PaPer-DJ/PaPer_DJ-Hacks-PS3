@@ -28,8 +28,10 @@ PS3 Hacks, Info & Tools
   
   > http://ps3xploit.com/hfw/release/ps3_tools-v3.0-HAN484_HFW_release_PS3XPloit.zip
   
+  > https://www.psx-place.com/threads/ps3xploit-4-84-hfw-flash-writer-idps-flash-dumpers-v2-0-1-now-install-cfw-from-4-84.23123/
+  
 * PS3Xploit.com website (hosting of exploits)
   > http://ps3xploit.com/
 
-
-  
+* PS3 WIKI INFO (MODELS)
+  > https://www.psdevwiki.com/ps3/SKU_Models
