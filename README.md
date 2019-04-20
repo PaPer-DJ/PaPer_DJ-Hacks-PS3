@@ -36,6 +36,9 @@ PS3 Hacks, Info & Tools
 * PS3 WIKI INFO (MODELS)
   > https://www.psdevwiki.com/ps3/SKU_Models
 
+* CARGAR ISOS MEDIANTE SERVIDOR SMB a través de LAN
+  > https://www.youtube.com/watch?v=m7H8z6fUgL0
+  
 --------------------------------------------------------------------------
 
 * PS3 HACK 4.82 OFW INFO
