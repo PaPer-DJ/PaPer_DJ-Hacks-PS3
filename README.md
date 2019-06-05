@@ -1,7 +1,12 @@
 # PaPer_DJ-PS3-Hacks
 
-PS3 Hacks, Info & Tools
+PS3 Hacks, Info & Tools (CFW & PS3HEN for SuperSlims & nonCFW models)
 -------------------------------------------------------------
+
+* PS3HEN PS3 Exploit for SuperSlims & nonCFW models
+  > https://www.psx-place.com/threads/ps3hen-a-homebrew-enabler-more-for-superslim-all-noncfw-ps3-consoles.23817/
+  > https://www.psx-place.com/threads/update-ps3hen-v2-1-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/
+  > https://www.psx-place.com/threads/tutorial-ps3hen-the-great-ps3-hen-all-in-one-guide.24369/
 
 * PS3 REBUG CUSTOM FIRMWARE (CFW)
   > https://rebug.me/
