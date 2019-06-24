@@ -35,6 +35,9 @@ PS3 Hacks, Info & Tools (CFW & PS3HEN for SuperSlims & nonCFW models)
   
   > https://www.psx-place.com/threads/ps3xploit-4-84-hfw-flash-writer-idps-flash-dumpers-v2-0-1-now-install-cfw-from-4-84.23123/
   
+* PS3 HACK HFW NON DOWNGRADEABLE MODELS (3K - 4K)
+  > https://www.psx-place.com/threads/update-ps3hen-v2-2-2-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/
+  
 * PS3Xploit.com website (hosting of exploits)
   > http://ps3xploit.com/
 
