@@ -37,7 +37,7 @@ PS3 Hacks, Info & Tools (CFW & PS3HEN for SuperSlims & nonCFW models)
   
 * PS3 HACK HFW NON DOWNGRADEABLE MODELS (3K - 4K)
   > https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-84-2-ps3xploit-han-flash-tools-restored-for-4-84-ofw-users.23094/
-  
+  > https://www.youtube.com/watch?time_continue=1067&v=bjGecLzJgiw
 HEN 2.2.2
 > https://www.psx-place.com/threads/update-ps3hen-v2-2-2-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/
   
