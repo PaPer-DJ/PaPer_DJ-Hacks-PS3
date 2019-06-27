@@ -1,9 +1,18 @@
 # PaPer_DJ-PS3-Hacks
 
-PS3 Hacks, Info & Tools (CFW & PS3HEN for SuperSlims & nonCFW models)
+PS3 Hacks, Info & Tools (HFW & PS3HEN for SuperSlims & nonCFW models)
 -------------------------------------------------------------
 
 * PS3HEN PS3 Exploit for SuperSlims & nonCFW models
+  
+  * http://ps3xploit.com/
+  
+  (HFW) Hybrid Firmware:
+  * https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-84-2-ps3xploit-han-flash-tools-restored-for-4-84-ofw-users.23094/
+  
+  Ultimo HEN:
+  * https://www.psx-place.com/threads/update-ps3hen-v2-3-0-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/
+
   > https://www.psx-place.com/threads/ps3hen-a-homebrew-enabler-more-for-superslim-all-noncfw-ps3-consoles.23817/
   > https://www.psx-place.com/threads/update-ps3hen-v2-1-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/
   > https://www.psx-place.com/threads/tutorial-ps3hen-the-great-ps3-hen-all-in-one-guide.24369/
