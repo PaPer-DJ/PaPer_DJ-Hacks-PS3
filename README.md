@@ -59,6 +59,11 @@ HEN 2.2.2
 * CARGAR ISOS MEDIANTE SERVIDOR SMB a través de LAN
   > https://www.youtube.com/watch?v=m7H8z6fUgL0
   
+* CONVERTIR .PKG A .ISO O Formato Carpeta:
+  > https://www.psx-place.com/threads/psn-liberator-updated-to-v1-0-by-rudi-rastelli.10698/
+  > http://daxhordes.org/forum/viewtopic.php?t=10331
+  
+  
 --------------------------------------------------------------------------
 
 * PS3 HACK 4.82 OFW INFO
