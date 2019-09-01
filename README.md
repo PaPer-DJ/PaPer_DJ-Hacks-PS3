@@ -68,6 +68,8 @@ HEN 2.2.2
 * https://www.psx-place.com/threads/4-85-cfw-ps3hen-homebrew-tools-cfw-releases-ps3hen-updates.25913/
 * https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/page-64#post-201157
 
+DOWNLOAD HEN 4.85 >> https://mega.nz/#!SAYhnYYB!6CmxOz0H_pSuVRb4YZ7-lYvY66hP0LlohgVMWfFut4Q
+
 --------------------------------------------------------------------------
 
 * PS3 HACK 4.82 OFW INFO
