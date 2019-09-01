@@ -63,7 +63,10 @@ HEN 2.2.2
   > https://www.psx-place.com/threads/psn-liberator-updated-to-v1-0-by-rudi-rastelli.10698/
   > http://daxhordes.org/forum/viewtopic.php?t=10331
   
-  
+
+* https://www.psx-place.com/threads/4-85-cfw-ps3hen-homebrew-tools-cfw-releases-ps3hen-updates.25913/
+
+
 --------------------------------------------------------------------------
 
 * PS3 HACK 4.82 OFW INFO
